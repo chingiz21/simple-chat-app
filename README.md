@@ -1,2 +1,3 @@
-# simple-chat-app
-Simple chat app
+# Simple chat app
+
+### `yarn dev`
